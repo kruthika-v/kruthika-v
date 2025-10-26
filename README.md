@@ -1,6 +1,7 @@
 # Hi there, I'm kruthika! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image]![Uploading Untitled design.png…]()
+
 
 ## About Me 🚀
 
@@ -22,7 +23,9 @@ I'm a passionate Developer with experience in Java & SpringBoot. I love tackling
 
 ## Get in Touch 📬
 
-- **[LinkedIn]**(your_linkedin_profile_link)
+- **[LinkedIn]** www.linkedin.com/in/kruthika-v10
+
+
 
 
 
